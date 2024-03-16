@@ -1,0 +1,47 @@
+.pg-delhi{
+    width: 60%;
+    height: 200px;
+    margin: 100px 0 0 300px;
+    box-shadow: 0 5px 5px grey;
+    display: flex;
+}
+
+.details{
+    height: 170px;
+    width: 68%;
+    margin: 20px 0 0 30px;
+}
+
+.heading1{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 20px 0 0 10px;
+}
+
+.heading2{
+    margin: 5px 0 0 12px;
+}
+
+.heading3{
+    margin: 5px 0 0 12px;
+}
+
+.ratings{
+    margin: -150px 0 0 500px;
+}
+
+.checked {
+    color: orange;
+}
+
+.viewpage{
+    margin: 80px 0 0 510px;
+    background-color: rgb(37, 37, 172);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    height: 40px;
+    width: 80px;
+}
