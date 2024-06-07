@@ -1,3 +1,6 @@
+This web app is hosted online at:- http://debanjansarkar.epizy.com/PGLIFE/index.php
+
+
 PG Finder is a Full-Stack Web Application. This is my B.tech final year major project. I got the guidance, and following that I made this web application with my own undertsnading and knowledge. It is customized according to what I thought would be better functionalities in this app, from the user perspective.
 
 This web app has the following functionalities:-
